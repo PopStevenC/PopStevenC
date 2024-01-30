@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steven Christian @PopStevenC
-- 👀 I’m interested in AI, Software Engineering, State of the art Tech
-- 🌱 I’m currently learning Generative AI and how to become a good leader
+- 👀 I’m interested in AI, Software Engineering, and State of the art Tech
+- 🌱 I’m currently learning Generative AI and how to become a good leader and good human
 - 📫 Feel free to reach out to me via Slack at any time.
 - ⚡ Fun fact: I am not a robot
 
